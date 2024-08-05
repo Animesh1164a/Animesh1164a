@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Animesh1164a
-- 👀 I’m interested in .web developing..
+- 👋 Hi, I’m @Animesh Kushwaha
+- 👀 I’m interested in web developing..
 - 🌱 I’m currently learning python...
 - 💞️ I’m looking to collaborate on github...
 - 📫 How to reach me ..you can reach me by 21bcs1533@cuchd.in.
