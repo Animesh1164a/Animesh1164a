@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @Animesh Kushwaha
-- 👀 I’m interested in web development..
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on github...
-- 📫 How to reach me ..you can reach me by kushwahaanimesh497@gmail.com.
+# Hi there 👋, I'm Animesh Kushwaha
 
-<!---
-Animesh1164a/Animesh1164a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Assistant Professor | M.Tech Scholar | AI & Machine Learning Enthusiast
+
+## 👨‍💻 About Me
+
+- 🎓 M.Tech Scholar in Computer Science & Engineering
+- 👨‍🏫 Assistant Professor passionate about teaching and mentoring students
+- 🤖 Interested in Artificial Intelligence, Machine Learning, Data Science, and Cyber Security
+- 💻 Skilled in Python, Java, SQL, HTML, CSS, JavaScript, and AI-based application development
+- 📚 Passionate about research, innovation, and solving real-world problems through technology
+- 🌱 Currently exploring Deep Learning, Generative AI, and Large Language Models (LLMs)
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, SQL
+- **Web:** HTML, CSS, JavaScript
+- **AI/ML:** Machine Learning, NLP, OpenCV
+- **Tools:** Git, GitHub, VS Code, Tableau, Figma
+
+## 📖 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Cyber Security
+- Data Analytics
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on:
+- AI & Machine Learning Projects
+- Python Development
+- Research Projects
+- Open Source Contributions
+
+## 📫 Connect with Me
+
+📧 Email: kushwahaanimesh497@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/animesh-kushwaha0063372
+
+⭐ Thanks for visiting my profile!
